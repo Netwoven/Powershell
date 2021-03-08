@@ -1,2 +1,2 @@
 # Powershell
-This repository is for usful Powershell scripts that Netwoven has used in the past.
+This repository is for useful Powershell scripts that Netwoven has used and want to share.
